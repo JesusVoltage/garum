@@ -1,0 +1,12 @@
+*, text-gris{
+    filter: grayscale(90%);
+}
+
+h1,h2,h3{
+    font-family: 'Anton', sans-serif !important;
+}
+
+h1,h2,h3:hover{
+    color: grey !important;
+    cursor:  pointer !important;
+}
